@@ -15,3 +15,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-03-25 14:54:28] Completed study session on Silver Peak SD-WAN dynamic path conditioning and packet loss mitigation
 * [2024-03-29 19:45:33] Completed study session on Palo Alto Next-Gen Firewall zone-based security policies and NAT rules
 * [2024-04-04 11:39:56] Completed study session on BGP peering and route advertisement in hybrid cloud environments
+* [2024-04-05 19:29:27] Completed study session on Wireshark deep packet analysis for TCP retransmissions and window sizing
