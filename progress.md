@@ -17,3 +17,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-04-04 11:39:56] Completed study session on BGP peering and route advertisement in hybrid cloud environments
 * [2024-04-05 19:29:27] Completed study session on Wireshark deep packet analysis for TCP retransmissions and window sizing
 * [2024-04-12 09:25:35] Completed study session on VLAN segmentation and 802.1Q trunking across enterprise switches
+* [2024-04-17 19:30:51] Completed study session on DHCP relay agent configuration and IP helper addresses across subnets
