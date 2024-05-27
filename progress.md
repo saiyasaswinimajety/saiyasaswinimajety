@@ -32,3 +32,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-05-21 20:54:18] Completed study session on Database connection pooling architecture using PgBouncer
 * [2024-05-22 19:40:20] Completed study session on Flyway idempotent database schema migrations and rollback strategies
 * [2024-05-23 17:18:44] Completed study session on Redis Cache-Aside pattern, key expiration, and TTL jitter strategies
+* [2024-05-27 16:33:43] Completed study session on Redis distributed locking using Redlock algorithm and fencing tokens
