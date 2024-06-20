@@ -39,3 +39,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-06-03 14:22:52] Completed study session on Parameter-efficient fine-tuning (PEFT) using Low-Rank Adaptation (LoRA)
 * [2024-06-11 10:11:52] Completed study session on Feature representation reuse across heterogeneous data distributions
 * [2024-06-18 17:51:31] Completed study session on Modular neural network pruning and sparse weight quantization
+* [2024-06-20 14:17:44] Completed study session on Multi-task learning loss weighting and gradient surgery techniques
