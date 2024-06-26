@@ -41,3 +41,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-06-18 17:51:31] Completed study session on Modular neural network pruning and sparse weight quantization
 * [2024-06-20 14:17:44] Completed study session on Multi-task learning loss weighting and gradient surgery techniques
 * [2024-06-24 10:33:45] Completed study session on Retrieval-Augmented Generation (RAG) recursive chunking and overlap tuning
+* [2024-06-25 20:05:15] Completed study session on Vector similarity search with FAISS and HNSW indexing benchmarks
