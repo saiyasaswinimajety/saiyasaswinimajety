@@ -53,3 +53,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-07-22 16:20:26] Completed study session on Circuit breaker pattern with resilience4j/pybreaker and fallback states
 * [2024-07-23 15:34:30] Completed study session on Distributed unique ID generation (Twitter Snowflake algorithm)
 * [2024-07-26 10:09:44] Completed study session on CQRS and Event Sourcing architectural trade-offs for high-scale platforms
+* [2024-08-01 11:33:44] Completed study session on Distributed tracing propagation using OpenTelemetry and W3C tracecontext
