@@ -55,3 +55,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-07-26 10:09:44] Completed study session on CQRS and Event Sourcing architectural trade-offs for high-scale platforms
 * [2024-08-01 11:33:44] Completed study session on Distributed tracing propagation using OpenTelemetry and W3C tracecontext
 * [2024-08-06 20:24:52] Completed study session on Singleflight pattern to eliminate cache stampede on high-cardinality keys
+* [2024-08-07 11:21:17] Completed study session on Docker container multi-stage builds and layer caching optimization
