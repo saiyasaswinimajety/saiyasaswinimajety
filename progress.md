@@ -91,3 +91,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-11-04 11:34:52] Completed study session on Elastic Weight Consolidation (EWC) to prevent catastrophic forgetting
 * [2024-11-07 19:44:56] Completed study session on Parameter-efficient fine-tuning (PEFT) using Low-Rank Adaptation (LoRA)
 * [2024-11-12 19:33:26] Completed study session on Feature representation reuse across heterogeneous data distributions
+* [2024-11-15 20:36:50] Completed study session on Modular neural network pruning and sparse weight quantization
