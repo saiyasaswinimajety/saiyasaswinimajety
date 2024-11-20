@@ -93,3 +93,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-11-12 19:33:26] Completed study session on Feature representation reuse across heterogeneous data distributions
 * [2024-11-15 20:36:50] Completed study session on Modular neural network pruning and sparse weight quantization
 * [2024-11-19 16:25:44] Completed study session on Multi-task learning loss weighting and gradient surgery techniques
+* [2024-11-20 11:19:34] Completed study session on Retrieval-Augmented Generation (RAG) recursive chunking and overlap tuning
