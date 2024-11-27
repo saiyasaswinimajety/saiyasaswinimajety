@@ -96,3 +96,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2024-11-20 11:19:34] Completed study session on Retrieval-Augmented Generation (RAG) recursive chunking and overlap tuning
 * [2024-11-23 17:26:44] Completed study session on Vector similarity search with FAISS and HNSW indexing benchmarks
 * [2024-11-25 17:29:47] Completed study session on Dense passage retrieval and hybrid BM25 + dense embedding reranking
+* [2024-11-27 17:35:10] Completed study session on Semantic caching for LLM API cost reduction and latency bounding
