@@ -119,3 +119,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-01-29 09:36:30] Completed study session on Prometheus metrics scraping and Grafana dashboard alerting rules
 * [2025-01-30 14:27:26] Completed study session on Aruba Mobility Controller clustering and high-availability AP failover
 * [2025-01-31 15:40:10] Completed study session on Silver Peak SD-WAN dynamic path conditioning and packet loss mitigation
+* [2025-02-03 17:36:45] Completed study session on Palo Alto Next-Gen Firewall zone-based security policies and NAT rules
