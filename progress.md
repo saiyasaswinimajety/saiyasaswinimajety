@@ -137,3 +137,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-03-22 14:45:23] Completed study session on PostgreSQL transaction isolation levels and dead-lock prevention
 * [2025-03-24 14:16:45] Completed study session on Database connection pooling architecture using PgBouncer
 * [2025-03-25 09:31:38] Completed study session on Flyway idempotent database schema migrations and rollback strategies
+* [2025-03-28 15:50:28] Completed study session on Redis Cache-Aside pattern, key expiration, and TTL jitter strategies
