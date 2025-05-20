@@ -150,3 +150,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-05-09 17:37:10] Completed study session on Vector similarity search with FAISS and HNSW indexing benchmarks
 * [2025-05-12 14:38:33] Completed study session on Dense passage retrieval and hybrid BM25 + dense embedding reranking
 * [2025-05-16 15:40:18] Completed study session on Semantic caching for LLM API cost reduction and latency bounding
+* [2025-05-20 14:50:20] Completed study session on LangChain / LangGraph stateful agent workflows with tool-calling loops
