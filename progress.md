@@ -152,3 +152,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-05-16 15:40:18] Completed study session on Semantic caching for LLM API cost reduction and latency bounding
 * [2025-05-20 14:50:20] Completed study session on LangChain / LangGraph stateful agent workflows with tool-calling loops
 * [2025-05-21 09:40:36] Completed study session on Evaluation of RAG pipelines using RAGAS (faithfulness, answer relevancy)
+* [2025-05-22 10:34:17] Completed study session on HuggingFace Transformers pipeline integration and local quantization (4-bit)
