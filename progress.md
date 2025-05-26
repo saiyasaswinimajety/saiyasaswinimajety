@@ -153,3 +153,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-05-20 14:50:20] Completed study session on LangChain / LangGraph stateful agent workflows with tool-calling loops
 * [2025-05-21 09:40:36] Completed study session on Evaluation of RAG pipelines using RAGAS (faithfulness, answer relevancy)
 * [2025-05-22 10:34:17] Completed study session on HuggingFace Transformers pipeline integration and local quantization (4-bit)
+* [2025-05-26 15:31:40] Completed study session on Context window management and prompt compression strategies
