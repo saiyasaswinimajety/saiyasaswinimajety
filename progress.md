@@ -156,3 +156,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-05-26 15:31:40] Completed study session on Context window management and prompt compression strategies
 * [2025-05-28 20:14:34] Completed study session on Rate limiter implementation using Token Bucket and Redis Sorted Sets
 * [2025-05-29 20:52:18] Completed study session on Consistent hashing ring with virtual nodes for distributed data partition
+* [2025-06-02 20:22:10] Completed study session on Circuit breaker pattern with resilience4j/pybreaker and fallback states
