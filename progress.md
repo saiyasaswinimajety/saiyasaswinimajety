@@ -169,3 +169,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-06-17 17:46:15] Completed study session on GitHub Actions reusable workflows and OIDC authentication with AWS
 * [2025-06-26 10:20:50] Completed study session on Terraform state locking with S3 and DynamoDB for team workflows
 * [2025-06-30 10:53:50] Completed study session on Nginx reverse proxy load balancing algorithms and keepalive pooling
+* [2025-07-02 11:49:29] Completed study session on Prometheus metrics scraping and Grafana dashboard alerting rules
