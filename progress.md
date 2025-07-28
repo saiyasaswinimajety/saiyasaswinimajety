@@ -177,3 +177,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-07-17 20:15:14] Completed study session on Wireshark deep packet analysis for TCP retransmissions and window sizing
 * [2025-07-23 15:17:34] Completed study session on VLAN segmentation and 802.1Q trunking across enterprise switches
 * [2025-07-25 17:41:32] Completed study session on DHCP relay agent configuration and IP helper addresses across subnets
+* [2025-07-28 17:22:10] Completed study session on Captive portal authentication flows and RADIUS AAA integration
