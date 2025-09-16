@@ -189,3 +189,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-08-27 17:05:26] Completed study session on PostgreSQL B-Tree vs GIN indexing for high-throughput query latency
 * [2025-09-04 14:35:11] Completed study session on PostgreSQL transaction isolation levels and dead-lock prevention
 * [2025-09-14 09:07:29] Completed study session on Database connection pooling architecture using PgBouncer
+* [2025-09-16 14:39:18] Completed study session on Flyway idempotent database schema migrations and rollback strategies
