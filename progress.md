@@ -194,3 +194,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-09-29 19:20:33] Completed study session on Redis distributed locking using Redlock algorithm and fencing tokens
 * [2025-09-30 16:39:51] Completed study session on Kafka topic partitioning, consumer group rebalancing, and offset commits
 * [2025-10-01 17:22:22] Completed study session on Modular deep learning architecture for cross-domain transfer learning
+* [2025-10-05 14:46:50] Completed study session on Elastic Weight Consolidation (EWC) to prevent catastrophic forgetting
