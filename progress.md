@@ -201,3 +201,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-10-13 11:13:44] Completed study session on Multi-task learning loss weighting and gradient surgery techniques
 * [2025-10-14 11:12:52] Completed study session on Retrieval-Augmented Generation (RAG) recursive chunking and overlap tuning
 * [2025-10-16 16:55:25] Completed study session on Vector similarity search with FAISS and HNSW indexing benchmarks
+* [2025-10-18 15:08:18] Completed study session on Dense passage retrieval and hybrid BM25 + dense embedding reranking
