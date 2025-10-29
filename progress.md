@@ -204,3 +204,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2025-10-18 15:08:18] Completed study session on Dense passage retrieval and hybrid BM25 + dense embedding reranking
 * [2025-10-25 20:19:49] Completed study session on Semantic caching for LLM API cost reduction and latency bounding
 * [2025-10-26 20:24:39] Completed study session on LangChain / LangGraph stateful agent workflows with tool-calling loops
+* [2025-10-28 19:30:37] Completed study session on Evaluation of RAG pipelines using RAGAS (faithfulness, answer relevancy)
