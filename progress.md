@@ -228,3 +228,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-01-01 17:43:13] Completed study session on Palo Alto Next-Gen Firewall zone-based security policies and NAT rules
 * [2026-01-02 15:18:18] Completed study session on BGP peering and route advertisement in hybrid cloud environments
 * [2026-01-05 19:52:37] Completed study session on Wireshark deep packet analysis for TCP retransmissions and window sizing
+* [2026-01-06 17:39:55] Completed study session on VLAN segmentation and 802.1Q trunking across enterprise switches
