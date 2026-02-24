@@ -245,3 +245,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-02-06 19:45:29] Completed study session on Flyway idempotent database schema migrations and rollback strategies
 * [2026-02-09 10:24:39] Completed study session on Redis Cache-Aside pattern, key expiration, and TTL jitter strategies
 * [2026-02-11 15:09:51] Completed study session on Redis distributed locking using Redlock algorithm and fencing tokens
+* [2026-02-23 19:37:19] Completed study session on Kafka topic partitioning, consumer group rebalancing, and offset commits
