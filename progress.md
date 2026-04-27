@@ -266,3 +266,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-04-20 11:21:13] Completed study session on Distributed unique ID generation (Twitter Snowflake algorithm)
 * [2026-04-24 20:12:28] Completed study session on CQRS and Event Sourcing architectural trade-offs for high-scale platforms
 * [2026-04-25 11:22:38] Completed study session on Distributed tracing propagation using OpenTelemetry and W3C tracecontext
+* [2026-04-27 17:10:24] Completed study session on Singleflight pattern to eliminate cache stampede on high-cardinality keys
