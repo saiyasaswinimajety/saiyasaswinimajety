@@ -270,3 +270,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-05-01 17:37:33] Completed study session on Docker container multi-stage builds and layer caching optimization
 * [2026-05-04 09:25:16] Completed study session on Kubernetes Pod lifecycle, readiness/liveness probes, and resource requests
 * [2026-05-08 15:35:54] Completed study session on Kubernetes Ingress controllers and TLS termination with Cert-Manager
+* [2026-05-14 14:14:45] Completed study session on Linux systemd daemon configuration, cgroups, and journalctl debugging
