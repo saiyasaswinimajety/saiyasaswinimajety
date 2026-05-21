@@ -272,3 +272,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-05-08 15:35:54] Completed study session on Kubernetes Ingress controllers and TLS termination with Cert-Manager
 * [2026-05-14 14:14:45] Completed study session on Linux systemd daemon configuration, cgroups, and journalctl debugging
 * [2026-05-19 10:08:25] Completed study session on Bash automated deployment pipeline with robust error trapping and logging
+* [2026-05-20 19:09:17] Completed study session on GitHub Actions reusable workflows and OIDC authentication with AWS
