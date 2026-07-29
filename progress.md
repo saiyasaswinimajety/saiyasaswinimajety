@@ -293,3 +293,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-07-23 16:28:34] Completed study session on JWT authentication, refresh tokens, and RBAC permission middleware
 * [2026-07-25 11:48:38] Completed study session on Python memory profiling with tracemalloc and garbage collection tuning
 * [2026-07-27 10:41:18] Completed study session on PostgreSQL B-Tree vs GIN indexing for high-throughput query latency
+* [2026-07-29 15:20:17] Completed study session on PostgreSQL transaction isolation levels and dead-lock prevention
