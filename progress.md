@@ -301,3 +301,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-08-05 19:10:53] Completed study session on Kafka topic partitioning, consumer group rebalancing, and offset commits
 * [2026-08-11 15:15:55] Completed study session on Modular deep learning architecture for cross-domain transfer learning
 * [2026-08-14 16:37:24] Completed study session on Elastic Weight Consolidation (EWC) to prevent catastrophic forgetting
+* [2026-08-15 14:55:18] Completed study session on Parameter-efficient fine-tuning (PEFT) using Low-Rank Adaptation (LoRA)
