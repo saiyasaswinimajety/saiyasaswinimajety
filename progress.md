@@ -313,3 +313,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-09-03 20:22:18] Completed study session on Evaluation of RAG pipelines using RAGAS (faithfulness, answer relevancy)
 * [2026-09-06 11:42:47] Completed study session on HuggingFace Transformers pipeline integration and local quantization (4-bit)
 * [2026-09-07 16:41:12] Completed study session on Context window management and prompt compression strategies
+* [2026-09-09 09:46:46] Completed study session on Rate limiter implementation using Token Bucket and Redis Sorted Sets
