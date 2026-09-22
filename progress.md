@@ -322,3 +322,4 @@ This log tracks continuous technical research, system design explorations, DevOp
 * [2026-09-17 11:25:55] Completed study session on Singleflight pattern to eliminate cache stampede on high-cardinality keys
 * [2026-09-18 16:30:18] Completed study session on Docker container multi-stage builds and layer caching optimization
 * [2026-09-21 14:34:17] Completed study session on Kubernetes Pod lifecycle, readiness/liveness probes, and resource requests
+* [2026-09-22 14:14:16] Completed study session on Kubernetes Ingress controllers and TLS termination with Cert-Manager
