@@ -118,16 +118,6 @@
         </picture>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <br/>
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=saiyasaswinimajety&layout=compact&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=saiyasaswinimajety&layout=compact&bg_color=00000000&border_color=e5e7eb&title_color=0284c7&text_color=0f172a">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saiyasaswinimajety&layout=compact&bg_color=00000000&border_color=30363d&title_color=38bdf8&text_color=ffffff" alt="Top Languages" width="60%" />
-        </picture>
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -138,4 +128,4 @@
 - **Email**: [yasaswini7777@gmail.com](mailto:yasaswini7777@gmail.com)
 - **LinkedIn**: [linkedin.com/in/saiyasaswinimajety](https://www.linkedin.com/in/saiyasaswinimajety)
 - **GitHub**: [github.com/saiyasaswinimajety](https://github.com/saiyasaswinimajety)
-- **Activity & Progress Log**: See [`progress.md`](./progress.md) for full continuous technical study and research entries.
+
