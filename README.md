@@ -1,22 +1,15 @@
-<table>
-  <tr>
-    <td width="78%" valign="top">
-      <h1>Hi there, I'm Sai Yasaswini Majety!</h1>
-      <p>
-        <a href="https://git.io/typing-svg">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&width=550&lines=Sr.+Software+Engineer+%7C+5.7%2B+Yrs+%40+Viasat;DevOps%2C+Cloud+Infra+%26+Production+Automation;Commercial+In-Flight+Broadband+Networks;Python%2C+Bash%2C+FastAPI%2C+Docker%2C+AWS;GenAI%2C+RAG+Systems+%26+LLM+Pipelines;Co-Inventor+%7C+Indian+Patent+App.+202541026299">
-            <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=0284c7&width=550&lines=Sr.+Software+Engineer+%7C+5.7%2B+Yrs+%40+Viasat;DevOps%2C+Cloud+Infra+%26+Production+Automation;Commercial+In-Flight+Broadband+Networks;Python%2C+Bash%2C+FastAPI%2C+Docker%2C+AWS;GenAI%2C+RAG+Systems+%26+LLM+Pipelines;Co-Inventor+%7C+Indian+Patent+App.+202541026299">
-            <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&width=550&lines=Sr.+Software+Engineer+%7C+5.7%2B+Yrs+%40+Viasat;DevOps%2C+Cloud+Infra+%26+Production+Automation;Commercial+In-Flight+Broadband+Networks;Python%2C+Bash%2C+FastAPI%2C+Docker%2C+AWS;GenAI%2C+RAG+Systems+%26+LLM+Pipelines;Co-Inventor+%7C+Indian+Patent+App.+202541026299" />
-          </picture>
-        </a>
-      </p>
-    </td>
-    <td width="22%" align="center" valign="middle">
-      <img src="assets/avatar.jpg" width="135" height="135" style="border-radius: 50%;" alt="Sai Yasaswini Majety" />
-    </td>
-  </tr>
-</table>
+# Hi there, I'm Sai Yasaswini Majety!
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=580&lines=Sr.+Software+Engineer+%7C+5.7%2B+Yrs+%40+Viasat;DevOps%2C+Cloud+Infra+%26+Production+Automation;Commercial+In-Flight+Broadband+Networks;Python%2C+Bash%2C+FastAPI%2C+Docker%2C+AWS;GenAI%2C+RAG+Systems+%26+LLM+Pipelines;Co-Inventor+%7C+Indian+Patent+App.+202541026299">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284c7&width=580&lines=Sr.+Software+Engineer+%7C+5.7%2B+Yrs+%40+Viasat;DevOps%2C+Cloud+Infra+%26+Production+Automation;Commercial+In-Flight+Broadband+Networks;Python%2C+Bash%2C+FastAPI%2C+Docker%2C+AWS;GenAI%2C+RAG+Systems+%26+LLM+Pipelines;Co-Inventor+%7C+Indian+Patent+App.+202541026299">
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&width=580&lines=Sr.+Software+Engineer+%7C+5.7%2B+Yrs+%40+Viasat;DevOps%2C+Cloud+Infra+%26+Production+Automation;Commercial+In-Flight+Broadband+Networks;Python%2C+Bash%2C+FastAPI%2C+Docker%2C+AWS;GenAI%2C+RAG+Systems+%26+LLM+Pipelines;Co-Inventor+%7C+Indian+Patent+App.+202541026299" />
+    </picture>
+  </a>
+</p>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saiyasaswinimajety&label=Profile%20views&color=0284c7&style=flat" alt="Profile views" />&nbsp;&nbsp;
