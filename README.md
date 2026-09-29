@@ -83,6 +83,22 @@
 
 ---
 
+## Featured Open-Source Systems & Applied AI Projects
+
+### 1. [RAG Document Intelligence Assistant (`rag-hf-chatbot`)](https://github.com/saiyasaswinimajety/rag-hf-chatbot)
+*Tech Stack: Python 3.11+, Hugging Face (`sentence-transformers/all-MiniLM-L6-v2`), FAISS, Streamlit, PyPDF*
+- **Sub-200ms Semantic Retrieval:** Engineered an interactive document QA system with FAISS `IndexFlatIP` vector indexing, achieving sub-200ms context lookup over complex technical documentation.
+- **Two-Tier Caching Pipeline:** Implemented in-memory and SHA-256 content-hashed disk embedding caching pipelines to minimize inference overhead while preserving syntactic context boundaries.
+- **Source Attribution:** Surfaced real-time telemetry metrics and granular page-level citations for every synthesized response.
+
+### 2. [Contextual Tool Execution Assistant (`contextual-tool-assistant`)](https://github.com/saiyasaswinimajety/contextual-tool-assistant)
+*Tech Stack: Java 17+ (Spring Boot), Python 3.11+ (FastAPI), LangChain, Pydantic v2, SQLite*
+- **Modular Tool Calling & Schema Validation:** Architected a modular conversational agent integrating external REST API tool-calling capabilities with Pydantic v2 JSON Schema contracts.
+- **Structured State Persistence:** Implemented an ACID-compliant SQLite session state manager logging complete message sequences and tool execution audit trails.
+- **Enterprise Java Interoperability:** Engineered a Spring Boot companion service validating clinical and telecommunication batch payloads with Jakarta Bean Validation.
+
+---
+
 ## Published Patents
 
 | Year | Title | Authority | Application No. | Status |
