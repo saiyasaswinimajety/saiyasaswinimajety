@@ -12,8 +12,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saiyasaswinimajety&label=Profile%20views&color=0284c7&style=flat" alt="Profile views" />&nbsp;&nbsp;
-  <a href="https://saiyasaswinimajety-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%20Portfolio-saiyasaswinimajety-38BDF8?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sai-yasaswini-majety-88548a125/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;&nbsp;
+  <a href="https://saiyasaswini.me/"><img src="https://img.shields.io/badge/Live%20Portfolio-saiyasaswini.me-38BDF8?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/saiyasaswinimajety"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;&nbsp;
   <a href="https://github.com/saiyasaswinimajety?tab=followers"><img src="https://img.shields.io/github/followers/saiyasaswinimajety?label=Follow&style=flat&logo=github&logoColor=white&color=24292e" alt="GitHub Followers" /></a>&nbsp;&nbsp;
   <a href="mailto:yasaswini7777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" /></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Work%20Auth-Unrestricted%20EAD%20(No%20Sponsorship%20Req)-10B981?style=flat" alt="Work Authorization" />&nbsp;&nbsp;
@@ -178,7 +178,7 @@
 
 ### Connect & Collaboration
 
-- **Portfolio**: [saiyasaswinimajety-portfolio.vercel.app](https://saiyasaswinimajety-portfolio.vercel.app)
-- **LinkedIn**: [linkedin.com/in/sai-yasaswini-majety-88548a125/](https://www.linkedin.com/in/sai-yasaswini-majety-88548a125/)
+- **Portfolio**: [saiyasaswini.me](https://saiyasaswini.me/)
+- **LinkedIn**: [linkedin.com/in/saiyasaswinimajety](https://www.linkedin.com/in/saiyasaswinimajety)
 - **GitHub**: [github.com/saiyasaswinimajety](https://github.com/saiyasaswinimajety)
 - **Email**: [yasaswini7777@gmail.com](mailto:yasaswini7777@gmail.com)
