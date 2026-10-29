@@ -50,7 +50,7 @@
 
 ### 1. Independent Applied Systems Research - AI Systems & Cloud Infrastructure Researcher
 *Mar 2024 - Present | Houston, TX (Remote)*
-- **Clinical Dose Management Platform (21 CFR Part 11)**: Architected and open-sourced a full-stack distributed clinical dose management and logistics platform in React 18, TypeScript, and Java 21 / Spring Boot, modeling real-time nuclear decay physics ($A(t) = A_0 e^{-\lambda t}$) and tamper-evident GxP cryptographic audit trails.
+- **Clinical Order Management Platform (COMS / 21 CFR Part 11)**: Architected and open-sourced an enterprise distributed clinical order management and time-sensitive therapeutics platform in React 18, TypeScript, and Java 21 / Spring Boot, modeling dynamic decay physics ($A(t) = A_0 e^{-\lambda t}$) and tamper-evident FDA 21 CFR Part 11 cryptographic audit trails.
 - **Published Patent (IPO 202541026299)**: Co-invented parameter-efficient modular adapter architectures that isolate domain gradients while freezing foundational model weights, reducing incremental fine-tuning compute by 80%.
 - **High-Throughput RAG Microservices**: Built resilient semantic vector caching pipelines using FastAPI, LiteLLM proxy gateways, and vector store adapters, bounding P95 retrieval latency to sub-20ms.
 - **Declarative Infrastructure**: Authored modular Terraform and Docker configurations enforcing strict multi-tenant network isolation and zero-trust policies.
@@ -86,12 +86,12 @@
 
 ## Featured Open-Source Systems & Applied AI Projects
 
-### 1. [Clinical Dose Management Platform (`clinical-dose-management-platform`)](https://github.com/saiyasaswinimajety/clinical-dose-management-platform)
+### 1. [Clinical Order Management Platform (`clinical-order-management-platform`)](https://github.com/saiyasaswinimajety/clinical-order-management-platform)
 *Tech Stack: React 18.3, TypeScript, Vite, Java 21 LTS (Spring Boot 3.2), Python, PostgreSQL 16, Temporal.io, Docker, AWS EKS, FDA 21 CFR Part 11*
-- **Regulated Radiopharmaceutical Architecture:** Engineered a distributed life-sciences manufacturing and clinical dosing platform orchestrating time-critical cyclotron synthesis, multi-site PET imaging logistics, and automated decay compensation curves under strict FDA 21 CFR Part 11 compliance.
-- **Interactive React 18 Single-Page Application:** Built responsive clinical dashboards, 4-step guided prescription wizards, and interactive SVG nuclear decay calibration engines with client-side state caching and role-tailored personas (Hospital Coordinator, Radiopharmacist, QA Auditor).
+- **Regulated Clinical Order Architecture:** Engineered an enterprise life-sciences order management and clinical trial therapeutics platform orchestrating time-sensitive manufacturing synthesis, multi-site imaging logistics, and automated decay compensation curves under strict FDA 21 CFR Part 11 compliance.
+- **Interactive React 18 Single-Page Application:** Built responsive clinical dashboards, 4-step guided order placement wizards, and interactive SVG decay calibration engines with client-side state caching and role-tailored personas (Hospital Coordinator, Laboratory Pharmacist, QA Auditor).
 - **Dual-Layer GxP Cryptographic Audit Trail:** Built synchronous PostgreSQL row-level triggers and asynchronous CDC streaming to immutable AWS S3 WORM archives with SHA-256 forward-chained tamper-evident ledger verification (48,500 records/sec).
-- **Durable Temporal Sagas & Dynamic Capacity Solver:** Implemented multi-constraint capacity optimization engines resolving transit boundaries ($T_{\text{earliest}}$) and physical radioactive decay limits ($T_{\text{latest}}$) across multi-day fault-tolerant Temporal.io workflows.
+- **Durable Temporal Sagas & Dynamic Capacity Solver:** Implemented multi-constraint capacity optimization engines resolving transit boundaries ($T_{\text{earliest}}$) and physical degradation limits ($T_{\text{latest}}$) across multi-day fault-tolerant Temporal.io workflows.
 
 ### 2. [RAG Document Intelligence Assistant (`rag-hf-chatbot`)](https://github.com/saiyasaswinimajety/rag-hf-chatbot)
 *Tech Stack: Python 3.11+, Hugging Face (`sentence-transformers/all-MiniLM-L6-v2`), FAISS, Streamlit, PyPDF*
