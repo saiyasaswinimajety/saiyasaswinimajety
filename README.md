@@ -50,6 +50,7 @@
 
 ### 1. Independent Applied Systems Research - AI Systems & Cloud Infrastructure Researcher
 *Mar 2024 - Present | Houston, TX (Remote)*
+- **Clinical Dose Management Platform (21 CFR Part 11)**: Architected and open-sourced a full-stack distributed clinical dose management and logistics platform in React 18, TypeScript, and Java 21 / Spring Boot, modeling real-time nuclear decay physics ($A(t) = A_0 e^{-\lambda t}$) and tamper-evident GxP cryptographic audit trails.
 - **Published Patent (IPO 202541026299)**: Co-invented parameter-efficient modular adapter architectures that isolate domain gradients while freezing foundational model weights, reducing incremental fine-tuning compute by 80%.
 - **High-Throughput RAG Microservices**: Built resilient semantic vector caching pipelines using FastAPI, LiteLLM proxy gateways, and vector store adapters, bounding P95 retrieval latency to sub-20ms.
 - **Declarative Infrastructure**: Authored modular Terraform and Docker configurations enforcing strict multi-tenant network isolation and zero-trust policies.
@@ -85,13 +86,20 @@
 
 ## Featured Open-Source Systems & Applied AI Projects
 
-### 1. [RAG Document Intelligence Assistant (`rag-hf-chatbot`)](https://github.com/saiyasaswinimajety/rag-hf-chatbot)
+### 1. [Clinical Dose Management Platform (`clinical-dose-management-platform`)](https://github.com/saiyasaswinimajety/clinical-dose-management-platform)
+*Tech Stack: React 18.3, TypeScript, Vite, Java 21 LTS (Spring Boot 3.2), Python, PostgreSQL 16, Temporal.io, Docker, AWS EKS, FDA 21 CFR Part 11*
+- **Regulated Radiopharmaceutical Architecture:** Engineered a distributed life-sciences manufacturing and clinical dosing platform orchestrating time-critical cyclotron synthesis, multi-site PET imaging logistics, and automated decay compensation curves under strict FDA 21 CFR Part 11 compliance.
+- **Interactive React 18 Single-Page Application:** Built responsive clinical dashboards, 4-step guided prescription wizards, and interactive SVG nuclear decay calibration engines with client-side state caching and role-tailored personas (Hospital Coordinator, Radiopharmacist, QA Auditor).
+- **Dual-Layer GxP Cryptographic Audit Trail:** Built synchronous PostgreSQL row-level triggers and asynchronous CDC streaming to immutable AWS S3 WORM archives with SHA-256 forward-chained tamper-evident ledger verification (48,500 records/sec).
+- **Durable Temporal Sagas & Dynamic Capacity Solver:** Implemented multi-constraint capacity optimization engines resolving transit boundaries ($T_{\text{earliest}}$) and physical radioactive decay limits ($T_{\text{latest}}$) across multi-day fault-tolerant Temporal.io workflows.
+
+### 2. [RAG Document Intelligence Assistant (`rag-hf-chatbot`)](https://github.com/saiyasaswinimajety/rag-hf-chatbot)
 *Tech Stack: Python 3.11+, Hugging Face (`sentence-transformers/all-MiniLM-L6-v2`), FAISS, Streamlit, PyPDF*
 - **Sub-200ms Semantic Retrieval:** Engineered an interactive document QA system with FAISS `IndexFlatIP` vector indexing, achieving sub-200ms context lookup over complex technical documentation.
 - **Two-Tier Caching Pipeline:** Implemented in-memory and SHA-256 content-hashed disk embedding caching pipelines to minimize inference overhead while preserving syntactic context boundaries.
 - **Source Attribution:** Surfaced real-time telemetry metrics and granular page-level citations for every synthesized response.
 
-### 2. [Contextual Tool Execution Assistant (`contextual-tool-assistant`)](https://github.com/saiyasaswinimajety/contextual-tool-assistant)
+### 3. [Contextual Tool Execution Assistant (`contextual-tool-assistant`)](https://github.com/saiyasaswinimajety/contextual-tool-assistant)
 *Tech Stack: Java 17+ (Spring Boot), Python 3.11+ (FastAPI), LangChain, Pydantic v2, SQLite*
 - **Modular Tool Calling & Schema Validation:** Architected a modular conversational agent integrating external REST API tool-calling capabilities with Pydantic v2 JSON Schema contracts.
 - **Structured State Persistence:** Implemented an ACID-compliant SQLite session state manager logging complete message sequences and tool execution audit trails.
@@ -131,7 +139,7 @@
 ### Languages & Scripting
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,java,c,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,bash,c,cpp,html,css" />
   </a>
 </p>
 
@@ -142,10 +150,10 @@
   </a>
 </p>
 
-### Backend & Applied ML Frameworks
+### Frontend, Backend & Applied ML Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,flask,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,vite,fastapi,flask,spring,django,pytorch" />
   </a>
 </p>
 
